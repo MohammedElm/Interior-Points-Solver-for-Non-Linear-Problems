@@ -1,5 +1,7 @@
 # Interior-Points-Solver-for-Non-Linear-Problems
 
+
+
 ## Abstract
 
 In this project, two main solvers were constructed. The first one solves Inequality Quadratic Problems (IQP) and the second solves, using sequential quadratic programming (SQP), the more general problems where the objective and the constraints are only assumed to be twice differentiables, both were created using MATLAB. Theory of underlying Quadratic Programming and Sequential Quadratic Programming, and mathematical steps, is explained. Then, a detailed description of the constructed solvers is introduced. Multiple testings was done on the constructed solvers to study their functionality. These tests have been analysed and discussed together while comparing with another solver and providing recommendation for future work.
@@ -41,5 +43,10 @@ Where f and g are twice differentiables.
  ### The files ex511.m, ex512.m, ex58.m, hexagone.m
  
  All these files are examples of some optimization problems that we solved using out approach.
+ 
+ 
+ # Note:
+ 
+ This project was conducted for the KTH Royal Institute of Technology SF2822 COURSE (Applied Non Linear Optimization). We received the the full grade (A-5/5) for this work.
 
 

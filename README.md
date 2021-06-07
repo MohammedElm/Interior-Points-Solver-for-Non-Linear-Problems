@@ -32,5 +32,14 @@ Where f and g are twice differentiables.
  To so, we developed the following algorithm (Based on Sequential Quadratic Programming ):
  
  ![plot](./sqp_algo.png)
+ 
+ 
+ ### The file solvers_report.pdf:
+ 
+ A detailed report explaining the underlying mathematics behind the solvers and a multitude of experimentations.
+ 
+ ### The files ex511.m, ex512.m, ex58.m, hexagone.m
+ 
+ All these files are examples of some optimization problems that we solved using out approach.
 
 

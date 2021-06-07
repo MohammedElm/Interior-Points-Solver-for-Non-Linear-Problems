@@ -8,7 +8,7 @@ In this project, two main solvers were constructed. The first one solves Inequal
 ## Content
 
 - The file qp.m: Solves Inequality Quadratic Problems (IQP) in the form:
- ![plot](./qp_pb.png)
+ ![plot](./iqp_pb.png)
  
  To so, we developed the following algorithm (Based on Interior Points Method):
  

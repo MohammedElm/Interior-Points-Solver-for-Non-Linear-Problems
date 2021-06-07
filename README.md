@@ -36,7 +36,7 @@ Where f and g are twice differentiables.
  
  ### The file solvers_report.pdf:
  
- A detailed report explaining the underlying mathematics behind the solvers and a multitude of experimentations.
+ A detailed report explaining the underlying mathematics behind the solvers and a multitude of examples.
  
  ### The files ex511.m, ex512.m, ex58.m, hexagone.m
  

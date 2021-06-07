@@ -7,7 +7,8 @@ In this project, two main solvers were constructed. The first one solves Inequal
 
 ## Content
 
-- The file qp.m: Solves Inequality Quadratic Problems (IQP) in the form:
+### The file qp.m:
+- Solves Inequality Quadratic Problems (IQP) in the form:
 
 
  ![plot](./iqp_pb.png)
@@ -17,5 +18,19 @@ In this project, two main solvers were constructed. The first one solves Inequal
  To so, we developed the following algorithm (Based on Interior Points Method):
  
  ![plot](./qp_algo.png)
+ 
+ 
+ ### The file sqp.m:
+- Solves Non Linear Problems (NLP) in the form:
+
+
+ ![plot](./sqp_pb.png)
+ 
+ 
+Where f and g are twice differentiables.
+ 
+ To so, we developed the following algorithm (Based on Sequential Quadratic Programming ):
+ 
+ ![plot](./sqp_algo.png)
 
 
